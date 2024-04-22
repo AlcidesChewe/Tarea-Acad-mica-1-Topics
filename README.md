@@ -1,3 +1,5 @@
+![UPC LOGO](https://www.canvia.com/wp-content/uploads/2023/08/crymibfuwaapssb.png)
+
 # Tópicos en Ciencias de la Computación - TAREA ACADÉMICA 1
 
 ## Información del Curso
