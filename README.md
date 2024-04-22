@@ -52,6 +52,8 @@ Optimizar la asignación de los 20 miembros de la tripulación aérea a 10 vuelo
 5. **Relevancia del CSP en la Industria de la Aviación:**
    - Eficiencia Operativa y Satisfacción del Personal: Relaciona los beneficios potenciales de un sistema optimizado de asignación de tripulación con el rendimiento operativo y la moral del personal.
 
+![Tripulación aerea](https://www.cs.us.es/~fsancho/Cursos/SVRAI/img/constraint-satisfaction-problems-n.jpg)
+
 ### Planteamiento del Problema
 Para el planteamiento de este problema, consideraremos las siguientes variables y restricciones:
 - **Variables:** Cada variable representará a un miembro de la tripulación y su asignación a un vuelo específico.
