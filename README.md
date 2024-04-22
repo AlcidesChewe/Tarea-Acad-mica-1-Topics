@@ -20,6 +20,8 @@ En la presente tarea académica, nos proponemos abordar el desafiante problema d
 ### Problema y Motivación
 El problema seleccionado para esta investigación surge de la necesidad de optimizar la asignación de los 20 miembros de la tripulación aérea a 10 vuelos diferentes, garantizando la cobertura adecuada de azafatas y auxiliares de vuelo por vuelo y asegurando que se cumplan los requerimientos lingüísticos y operativos. La motivación detrás de este estudio radica en mejorar la eficiencia operativa y la satisfacción del personal de la aerolínea, elementos críticos en la industria de la aviación.
 
+![Tripulación aerea](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Austrian_Airlines_flight_attendant_and_passenger.jpg/1280px-Austrian_Airlines_flight_attendant_and_passenger.jpg)
+
 ### Objetivos
 **Objetivo General:**  
 Desarrollar un modelo de CSP que optimice la asignación de la tripulación aérea, satisfaciendo todas las restricciones y preferencias establecidas.
